@@ -1,6 +1,6 @@
 /* IMPOSTAZIONI GENERALI */
 body {
-    background-image: url(assets\img\sfondo.png);
+    background-image: url(../img/sfondo.png);
     text-align: center;
     padding: 20px;
     font-family: 'Poppins', sans-serif;
@@ -80,6 +80,7 @@ ol li {
 iframe {
     border-radius: 20px;
     margin: 20px auto;
+    width: 100%!important; /* comanda sulle altre!*/
 }
 
 /* TABELLE */
