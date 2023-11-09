@@ -1,0 +1,11 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1 {
+    font-weight: 700;
+}
+button {
+    border: none;
+}
