@@ -259,6 +259,46 @@ Grande: da 1200 in poi */
     width: 70%;
     margin: 50px auto;
   }
+
+  article iframe {
+    margin-left: 2em;
+  }
+
+  article iframe,
+  article section {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 49%;
+    height: 200px;
+    box-sizing: border-box;
+    margin: 10px 0;
+    text-align: left;
+    /* poi ha spiegato pure come sistemare in mezzo e lo vedo*/
+  }
+
+  article section {
+    border-radius: 20px;
+    margin-right: 0;
+  }
+
+  article section h2 {
+    background-color: #888;
+  }
+
+  aside {
+    margin-top: 20px;
+  }
+
+  aside div {
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle;
+    width: 33.5%;
+    height: 100px;
+    box-sizing: border-box;
+    margin: auto -3px;
+  }
   /*mancano la parte dal video e delle novità allineate in poi*/
 }
 
